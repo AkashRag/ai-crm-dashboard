@@ -22,3 +22,17 @@ A real industry-level AI CRM system built with n8n, Gemini AI, Supabase and Reac
 - Zero manual work
 - Fully automated lead pipeline
 - Real SaaS CRM architecture
+
+## Screenshots
+
+### AI CRM Dashboard
+![Dashboard](AI%20CRM.png)
+
+### n8n Workflow
+![Workflow](N8n%20CRM_U.png)
+
+### Gmail Integration
+![Gmail](Gmail3.png)
+
+### Supabase Database
+![Supabase](SupaBase.png)
