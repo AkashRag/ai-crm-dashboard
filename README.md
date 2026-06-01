@@ -31,6 +31,9 @@ A real industry-level AI CRM system built with n8n, Gemini AI, Supabase and Reac
 ### n8n Workflow
 ![Workflow](N8n%20CRM_U.png)
 
+### Demo Video
+[▶ Watch Live Demo](https://youtu.be/sarv8-PlDi4)
+
 ### Gmail Integration
 ![Gmail](Gmail3.png)
 
